@@ -1,5 +1,9 @@
 * {font-family: 'Bilbo Swash Caps', cursive;}
 
+body {
+    background-image: url("balrog.jpg");
+}
+
 p {
     font-size:500%;
     text-align: center;
@@ -7,10 +11,12 @@ p {
 
 #button1 {
     font-size: 250%;
+
+    background-image: url("gandalf.jpg");
     
     width:150px;
-    height: 75px;
+    height: 150px;
 
-    margin-left: 10vw;
+    margin-left: 50vw;
     margin-top: 10vh;
 }

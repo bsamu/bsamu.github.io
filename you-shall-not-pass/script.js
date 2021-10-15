@@ -16,15 +16,4 @@ function calculate1() {
     return smth();
 }
 
-// console.log(width1);
-
 buttonSelect.addEventListener("mouseover", calculate1);
-
-// function replaceButton() {
-//     buttonSelect.style.setProperty('width', width1);
-//     buttonSelect.style.setProperty('height', height1);
-// }
-
-// buttonSelect.addEventListener('mouseover', replaceButton);
-
-{/* <button type="button" id="button1">pass!</button> */}
