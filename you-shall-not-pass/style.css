@@ -1,0 +1,16 @@
+* {font-family: 'Bilbo Swash Caps', cursive;}
+
+p {
+    font-size:500%;
+    text-align: center;
+}
+
+#button1 {
+    font-size: 250%;
+    
+    width:150px;
+    height: 75px;
+
+    margin-left: 10vw;
+    margin-top: 10vh;
+}
