@@ -12,7 +12,7 @@ function smth () {
 
 function calculate1() {
     width1 = Math.floor(Math.random() * 89);
-    height1 = Math.floor(Math.random() * 70);
+    height1 = Math.floor(Math.random() * 49);
     return smth();
 }
 
