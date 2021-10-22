@@ -12,8 +12,8 @@ function smth () {
 }
 
 function calculate1() {
-    const maxWidth = window.innerWidth-150;
-    const maxHeight = window.innerHeight-150;
+    const maxWidth = window.innerWidth-150; // kép szélességével korrigál
+    const maxHeight = window.innerHeight-150; // kép magasságával korrigál
     width1 = Math.floor(Math.random() * maxWidth);
     height1 = Math.floor(Math.random() * maxHeight);
     return smth();

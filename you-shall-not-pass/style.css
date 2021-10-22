@@ -21,4 +21,7 @@ p {
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
+    /* position: absolute; - új layer csinál, bal felső sarokhoz igazítja, nem előző elemhez képest
+    %-ok, képernyőre nézik
+    transform: translate(-50%, -50%); - % csak a bal felső sarkát rakja oda, ezzel full középre */
 }
